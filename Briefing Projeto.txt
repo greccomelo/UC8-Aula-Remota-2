@@ -1,0 +1,5 @@
+Percorrer de Zero até o número de alunos.
+
+- se o número for par, escreva PAR e o número correspondente.
+- se o número dor impar, escreva IMPAR e o número correspondente.
+- se o número for ZERO, escreva ZERO.
